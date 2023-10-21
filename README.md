@@ -1,3 +1,4 @@
+![pic1](https://github.com/johnpaolo16/John-Paolo-Ordona/assets/148620296/db450e2d-a186-4d2e-9318-8c03575907d8)
 
 <h1 align="center">John Paolo A. Ordoña</h1>
 

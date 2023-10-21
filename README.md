@@ -38,7 +38,8 @@
                    </center></p>
 
 <h1 align="left">Seminars</h1>
-<p align="left">                                              
+<p align="left">   ![John Paolo Ordona](https://github.com/johnpaolo16/John-Paolo-Ordona/assets/148620296/9fb16565-a21c-4b29-a7d9-0a1823856ae0)
+                                           
 
 
 

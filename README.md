@@ -1,4 +1,5 @@
-![pic1](https://github.com/johnpaolo16/John-Paolo-Ordona/assets/148620296/db450e2d-a186-4d2e-9318-8c03575907d8)
+![Black Minimal Motivation Quote LinkedIn Banner (2)](https://github.com/johnpaolo16/John-Paolo-Ordona/assets/148620296/8c21bb36-08cc-4e23-b85e-b1255a082b0a)
+
 
 <h1 align="center">John Paolo A. Ordoña</h1>
 

@@ -4,14 +4,23 @@
 <h1 align="center">John Paolo A. Ordoña</h1>
 
 <p align="center">
-    
+ <a href="https://www.linkedin.com/in/ordo%C3%B1a-john-paolo-a-84b293265/">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="mailto: johnpaoloordona@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Website">
+    </a>
+    <a href="https://www.facebook.com/johnpaolo.ordona"> 
+        <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
+    </a>
+   
 </p>
 
 
 
 
 
-<h3 align="center">4th-Year Information Technology student at New Era University, Quezon City Philippines</h3>
+<h3 align="center">4th-Year Information Technology Student at New Era University, Quezon City Philippines</h3>
 
 
 <h1 align="left">Languages and Tools</h1>

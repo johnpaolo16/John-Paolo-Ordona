@@ -22,8 +22,9 @@
 2021 - Present <br><br></p>
 
 <h1 align="left">Certifications</h1>
-<p align ="left"><a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/ff5f32baaabbf8e47ee3b3408b411686a1f27b49" ><br></a>Understanding Data Engineering<br>
-                   <br>
+<p align ="left"><a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/ff5f32baaabbf8e47ee3b3408b411686a1f27b49" ><br>Understanding Data Engineering</a> <br>
+                   Data Camp<br>
                    </center></p>
 
+                  
 

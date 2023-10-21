@@ -1,7 +1,6 @@
 ![Black Minimal Motivation Quote LinkedIn Banner (2)](https://github.com/johnpaolo16/John-Paolo-Ordona/assets/148620296/8c21bb36-08cc-4e23-b85e-b1255a082b0a)
 
 <h1 align="center">John Paolo A. Ordoña</h1>
-
 <p align="center">
  <a href="https://www.linkedin.com/in/ordo%C3%B1a-john-paolo-a-84b293265/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">

@@ -38,7 +38,33 @@
                    </center></p>
 
 <h1 align="left">Seminars</h1>
- ![John Paolo Ordona](https://github.com/johnpaolo16/John-Paolo-Ordona/assets/148620296/9fb16565-a21c-4b29-a7d9-0a1823856ae0)
+<p align ="left">
+ ➢ Data Camp (April 24, 2022)
+- Understanding Data Engineering
+➢ New Era University - Lesson, Trends, and 
+Opportunities in the IT Industry Series (April 1-25, 
+2022)
+- Careers in IT
+- Microsoft Power Apps
+- RPA: Robotic Process Automation
+- Data Protection
+- Ethical Hacking-Brute Force Attack
+- Process and Flows of an IT Project
+- Exploring The New Age of Business Intelligence 
+Innovation
+- IT Industry Landscape and Trends
+- Software Management
+- Art Thieves: How to Protect Your Art
+- Working Abroad
+- Self-Learning Graphic Design
+- Keeping Your Designs Fresh, but Still on Brand
+- Introduction to 3D Modeling
+- Defenders Guide to a Successful Cybersecurity 
+Career
+- Introduction to Web Development
+- Database Management System: What it is and 
+Why it matters
+
                                            
 
 

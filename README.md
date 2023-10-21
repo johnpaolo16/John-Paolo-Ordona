@@ -9,7 +9,7 @@
 
 
 
-<h3 align="center">A 4rd-year Information Technology student at New Era University, Quezon City, Philippines</h3>
+<h3 align="center">4th-Year Information Technology student at New Era University, Quezon City Philippines</h3>
 
 
 <h1 align="left">Languages and Tools</h1>
@@ -22,7 +22,7 @@
 2021 - Present <br><br></p>
 
 <h1 align="left">Certifications</h1>
-<p align ="left"><a href="" ><br></a> <br>
+<p align ="left"><a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/ff5f32baaabbf8e47ee3b3408b411686a1f27b49" ><br></a>Understanding Data Engineering<br>
                    <br>
                    </center></p>
 
